@@ -1,0 +1,25 @@
+{
+  "name": "subdomainfinder",
+  "version": "1.0.0",
+  "description": "This tool used to find all the subdomain of a given domain in a fatest way",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "subdomainfinder": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariharan005/subdomain.git"
+  },
+  "keywords": [
+    "subdomain", "subdomainfinder"
+  ],
+  "author": "Hariharan C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariharan005/subdomain/issues"
+  },
+  "homepage": "https://github.com/hariharan005/subdomain#readme"
+}
