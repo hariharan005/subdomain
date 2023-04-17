@@ -1,6 +1,6 @@
 {
   "name": "subdomainfinder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This tool used to find all the subdomain of a given domain in a fatest way",
   "main": "index.js",
   "scripts": {
