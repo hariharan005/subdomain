@@ -2,12 +2,12 @@
   "name": "subdomainfinder",
   "version": "1.0.0",
   "description": "This tool used to find all the subdomain of a given domain in a fatest way",
-  "main": "bin/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "subdomainfinder": "./bin/index.js"
+    "subdomainfinder": "index.js"
   },
   "repository": {
     "type": "git",
